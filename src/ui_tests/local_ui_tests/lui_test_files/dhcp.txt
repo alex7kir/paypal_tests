@@ -1,0 +1,9 @@
+ip: 192.168.17.171 
+netmask: 255.255.255.0
+gateway: 192.168.17.1
+primary_dns: 192.168.17.100
+secondary_dns: 192.168.17.101
+third_dns: ''
+mtu: ''
+mgmt_cloud_address: fignya.com
+passphrase: passtocloud

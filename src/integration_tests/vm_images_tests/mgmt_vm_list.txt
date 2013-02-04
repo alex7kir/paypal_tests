@@ -1,0 +1,10 @@
+# Third-party packages
+package:wget
+package:dhcp-common
+package:ethtool
+# Our packages
+#
+# Services
+service:netconsole
+service:network
+

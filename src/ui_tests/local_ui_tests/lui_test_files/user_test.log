@@ -1,0 +1,72 @@
+2012-04-12T23:59:59.000000+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO Item older than month
+2012-04-14T23:59:59.000000+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO Item older than month
+2012-04-15T23:59:59.000000+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO Item older than month
+2012-04-16T23:59:59.000000+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO Item older than month
+2012-04-17T00:00:01.000000+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO First item of the month
+2012-04-18T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-04-19T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-04-20T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-04-21T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-04-22T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-04-23T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-04-24T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-04-25T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-04-26T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-04-27T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-04-28T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-04-29T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-04-30T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-01T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-02T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-03T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-04T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-05T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-06T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-07T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-08T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-09T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-10T23:59:59.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-11T00:00:01.000000+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO First item of the week
+2012-05-11T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-12T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-12T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-13T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-13T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-14T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-14T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-15T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-15T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-16T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-16T16:44:29.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-17T00:00:01.000000+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO First item of the day
+2012-05-17T01:01:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-17T02:01:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-17T03:01:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-17T04:01:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-17T05:01:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-17T06:01:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-17T07:01:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-17T08:01:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-17T09:01:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-17T10:01:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-17T11:01:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-17T12:01:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-17T13:01:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-17T14:01:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-17T15:01:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-17T16:01:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-17T17:01:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-17T18:01:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-17T19:01:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-17T20:01:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-17T21:01:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-17T22:01:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-17T23:01:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO     Starting Vyatta Agent
+2012-05-17T23:59:59.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO Last item of the day, week and month
+2012-05-18T00:00:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO First future item
+2012-05-18T10:00:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO Second future item
+2012-05-19T10:00:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO Third future item
+2012-05-19T20:00:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO 4th future item
+2012-05-20T10:00:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO 5th future item
+2012-05-20T20:00:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO 6th future item
+2012-05-21T10:00:00.304008+00:00 s_sys@Appliance-4-MgmtVM mescalero 0e [user.info] INFO 7th future item

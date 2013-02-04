@@ -1,0 +1,10 @@
+ip: 192.168.15.15 
+netmask: 255.255.255.192
+ip_mask: 192.168.15.15/26
+gateway: 192.168.15.1
+primary_dns: 8.8.8.8
+secondary_dns: 7.7.7.7
+third_dns: 6.6.6.6
+mtu: 1350
+mgmt_cloud_address: 111.22.33.444
+passphrase: passtocloud

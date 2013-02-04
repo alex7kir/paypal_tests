@@ -1,0 +1,11 @@
+PyYAML
+nose
+nose-testconfig
+paramiko
+pycrypto
+requests
+scpclient
+selenium
+pika
+restclient
+webhdfs

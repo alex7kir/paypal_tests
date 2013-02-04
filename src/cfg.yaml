@@ -1,0 +1,28 @@
+vm_list:
+    - host: 172.18.22.151
+      port: 22
+      username: root
+      password: '111111'
+      type: 'web_vm'
+
+
+tests:
+    web_vm_components: 'integration_tests/vm_images_tests/mgmt_vm_list.txt'
+    db_vm_components: 'integration_tests/vm_images_tests/mgmt_vm_list.txt'
+    ntp_server_name: "some.address.com"
+
+#    - host: 172.18.22.153
+#      port: 22
+#      username: root
+#      password: '11111'
+#      type: 'web_vm'
+#    - host: 172.18.196.62
+#      port: 22
+#      username: root
+#      password: '12345'
+#      type: 'db_vm'
+#    - host: 172.18.22.153
+#      port: 22
+#      username: root
+#      password: '11111'
+#      type: 'db_vm'

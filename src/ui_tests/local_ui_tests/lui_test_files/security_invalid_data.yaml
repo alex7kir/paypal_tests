@@ -1,0 +1,42 @@
+security:
+     password_confirm_fail:
+           old: ''
+           new: '1q2w3e4r5t'
+           messages: ['This field is required.', '', 'Password and Verify Password don’t match.']
+     wrong_passwords:
+         - old: ''
+           new: ''
+           messages: ['This field is required.', 'This field is required.', 'This field is required.']
+         - old: ''
+           new: 'AZaz09~!@#$%^&*_-+=`|(){}[]:;''<>,.?/'
+           messages: ['This field is required.', '', '']
+         - old: ''
+           new: 'AZaz09~!@#$%^&*_-+=`|(){}[]:;""<>,.?/'
+           messages: ['This field is required.', '', '']
+         - old: ''
+           new: '1q2w 3e4r'
+           messages: ['This field is required.', 'Allowed characters: A-Z, a-z, 0-9, ~!@#$%^&*_-+=`|(){}[]:;"''<>,.?/', '']
+         - old: ''
+           new: '1q2wю3e4r'
+           messages: ['This field is required.', 'Allowed characters: A-Z, a-z, 0-9, ~!@#$%^&*_-+=`|(){}[]:;"''<>,.?/', '']
+         - old: ''
+           new: '1q2w3e4'
+           messages: ['This field is required.', 'Please enter at least 8 characters.', '']
+         - old: ''
+           new: '1q2w3e4r5t1q2w3e4r5t1q2w3e4r5t1q2w3e4r5t1'
+           messages: ['This field is required.', 'Please enter no more than 40 characters.', '']
+         - old: ''
+           new: '1q2w3e4r'
+           messages: ['This field is required.', '', '']
+         - old: ''
+           new: '1q2w3e4r5t1q2w3e4r5t1q2w3e4r5t1q2w3e4r5t'
+           messages: ['This field is required.', '', '']
+         - old: ''
+           new: '12345678'
+           messages: ['This field is required.', 'Password must contain both numeric and alphabetic characters.', '']
+         - old: ''
+           new: 'qwertyui'
+           messages: ['This field is required.', 'Password must contain both numeric and alphabetic characters.', '']
+         - old: '1q2w3e4r5t'
+           new: '1q2w3e4r5t'
+           messages: ['', 'New password must differ from old.', '']
